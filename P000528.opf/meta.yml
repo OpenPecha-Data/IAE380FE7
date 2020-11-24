@@ -3,5 +3,30 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD95812
   title: གསུང་ཐོར་བུ། བློ་གྲོས་དཔལ
-  volume: ''
+  volume:
+    8250abfb761a487d9b376dde5a9a938e:
+      image_group_id: I1KG15395
+      title: Volume 1 of byang chub lam gyi rim pa'i khrid chen brgyad phyogs gcig
+        tu bsgrigs pa/
+      volume_number: 1
+      total_pages: 852
+    98617689007f460d9338c157e68a41f0:
+      image_group_id: I1KG15396
+      title: Volume 2 of byang chub lam gyi rim pa'i khrid chen brgyad phyogs gcig
+        tu bsgrigs pa/
+      volume_number: 2
+      total_pages: 360
+    0f9aa1f8e93e453991aa854d67d00cc8:
+      image_group_id: I1KG15397
+      title: Volume 3 of byang chub lam gyi rim pa'i khrid chen brgyad phyogs gcig
+        tu bsgrigs pa/
+      volume_number: 3
+      total_pages: 464
   author: ''
+ebook_metadata:
+  title: གསུང་ཐོར་བུ། བློ་གྲོས་དཔལ
+  author: ''
+  sku: P000528
+  cover: cover.jpg
+  layers:
+  - pagination
