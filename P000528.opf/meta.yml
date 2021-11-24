@@ -1,5 +1,7 @@
 id: P000528
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1PD95812
   title: གསུང་ཐོར་བུ། བློ་གྲོས་དཔལ
@@ -23,10 +25,3 @@ source_metadata:
         tu bsgrigs pa/
       volume_number: 3
       total_pages: 464
-ebook_metadata:
-  title: གསུང་ཐོར་བུ། བློ་གྲོས་དཔལ
-  author: ''
-  sku: P000528
-  cover: cover.jpg
-  layers:
-  - pagination
